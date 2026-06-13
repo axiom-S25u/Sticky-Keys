@@ -8,7 +8,7 @@
 	},
 	"id": "axiom.sticky-keys",
 	"name": "Sticky Keys",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "Axiom",
 	"description": "click once to hold jump, click again to release",
 	"tags": ["gameplay", "joke"],
